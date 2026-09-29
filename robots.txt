@@ -1,0 +1,7 @@
+# Slum residents trapped in syndicates’ web (The Daily Star)
+# Crawlers read robots.txt only at the root of a domain. On the live site, add
+# the Sitemap line below to https://campaign.thedailystar.net/robots.txt.
+User-agent: *
+Allow: /
+
+Sitemap: https://campaign.thedailystar.net/syndicates-web/sitemap.xml

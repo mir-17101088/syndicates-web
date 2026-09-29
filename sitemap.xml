@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://campaign.thedailystar.net/syndicates-web/</loc>
+    <lastmod>2026-10-01T00:00:00+06:00</lastmod>
+    <news:news>
+      <news:publication>
+        <news:name>The Daily Star</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-01T00:00:00+06:00</news:publication_date>
+      <news:title>Slum residents trapped in syndicates’ web</news:title>
+    </news:news>
+    <image:image><image:loc>https://campaign.thedailystar.net/syndicates-web/media/share/hero-16x9-a2c32d5e64.jpg</image:loc></image:image>
+    <image:image><image:loc>https://campaign.thedailystar.net/syndicates-web/media/photos/hero-2560.jpg</image:loc></image:image>
+    <image:image><image:loc>https://campaign.thedailystar.net/syndicates-web/media/photos/korail-2560.jpg</image:loc></image:image>
+    <image:image><image:loc>https://campaign.thedailystar.net/syndicates-web/media/photos/gas-1920.jpg</image:loc></image:image>
+    <image:image><image:loc>https://campaign.thedailystar.net/syndicates-web/media/photos/officials-1920.jpg</image:loc></image:image>
+    <image:image><image:loc>https://campaign.thedailystar.net/syndicates-web/media/archive/anisur-rahman-islambagh-22-09-2012-1920.jpg</image:loc></image:image>
+    <image:image><image:loc>https://campaign.thedailystar.net/syndicates-web/media/archive/anisur-rahman-kalyanpur-22-06-2009-1920.jpg</image:loc></image:image>
+    <image:image><image:loc>https://campaign.thedailystar.net/syndicates-web/media/archive/anisur-rahman-shyampur-07-04-2013-1920.jpg</image:loc></image:image>
+    <image:image><image:loc>https://campaign.thedailystar.net/syndicates-web/media/archive/anisur-rahman2-karail-19-11-2021-1920.jpg</image:loc></image:image>
+    <image:image><image:loc>https://campaign.thedailystar.net/syndicates-web/media/archive/rashed-sumon-islambagh-6-06-2020-1920.jpg</image:loc></image:image>
+    <image:image><image:loc>https://campaign.thedailystar.net/syndicates-web/media/archive/rashed-sumon2-islambagh-6-06-2020-1920.jpg</image:loc></image:image>
+    <image:image><image:loc>https://campaign.thedailystar.net/syndicates-web/media/archive/rashed-sumon3-islambagh-27-03-2019-1920.jpg</image:loc></image:image>
+    <image:image><image:loc>https://campaign.thedailystar.net/syndicates-web/media/archive/rashed-sumon4-islambagh-22-09-2012-1920.jpg</image:loc></image:image>
+  </url>
+</urlset>
