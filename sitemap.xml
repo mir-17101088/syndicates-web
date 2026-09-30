@@ -4,13 +4,13 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://campaign.thedailystar.net/syndicates-web/</loc>
-    <lastmod>2026-10-01T00:00:00+06:00</lastmod>
+    <lastmod>2026-10-03T00:00:00+06:00</lastmod>
     <news:news>
       <news:publication>
         <news:name>The Daily Star</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T00:00:00+06:00</news:publication_date>
+      <news:publication_date>2026-10-03T00:00:00+06:00</news:publication_date>
       <news:title>Slum residents trapped in syndicates’ web</news:title>
     </news:news>
     <image:image><image:loc>https://campaign.thedailystar.net/syndicates-web/media/share/hero-16x9-a2c32d5e64.jpg</image:loc></image:image>

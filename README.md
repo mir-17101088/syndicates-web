@@ -1,6 +1,6 @@
 # Slum residents trapped in syndicates’ web
 
-The Daily Star, by Shamima Rita. Goes live at **https://campaign.thedailystar.net/syndicates-web/** on 1 October 2026.
+The Daily Star, by Shamima Rita. Goes live at **https://campaign.thedailystar.net/syndicates-web/** on 3 October 2026.
 
 This folder is the finished website. It's plain static files: no build step, no server code, no database and no calls to outside services. Every path inside it is relative, so it works both at the root of a domain (the Vercel preview) and inside the `/syndicates-web/` folder on the live server.
 
