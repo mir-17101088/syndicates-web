@@ -1,4 +1,4 @@
-# Slum residents trapped in syndicates’ web
+# The Slum Surcharge
 
 The Daily Star, by Shamima Rita. Goes live at **https://campaign.thedailystar.net/syndicates-web/** on 3 October 2026.
 
