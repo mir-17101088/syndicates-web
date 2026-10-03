@@ -8,7 +8,6 @@ Don't edit these files by hand. They're generated from the project source (`site
 
 ---
 
-`vercel.json` sets the cache and security headers there. It also tells search engines not to index any `*.vercel.app` address, so the preview never competes with the real page. Other servers ignore this file.
 
 **Share cards on the preview:** link previews (Facebook, X, WhatsApp, Slack) point at the live address by design, so they show the photo only once the page is live at https://campaign.thedailystar.net/syndicates-web/.
 
