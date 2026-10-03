@@ -8,25 +8,6 @@ Don't edit these files by hand. They're generated from the project source (`site
 
 ---
 
-## 1. Preview on Vercel
-
-1. **Put this folder on GitHub as its own repository.** It has about 230 files. GitHub's drag-and-drop uploader takes only 100 at a time, so use one of these instead:
-   - **GitHub Desktop:** File → Add local repository → choose this folder → "create a repository" → Publish repository.
-   - **Git on the command line:** create an empty repository on github.com (no README), then run these inside this folder:
-
-     ```bash
-     git init -b main
-     git add .
-     git commit -m "Slum utilities microsite"
-     git remote add origin https://github.com/<account>/<repository>.git
-     git push -u origin main
-     ```
-2. **Import it on Vercel:** Add New → Project → pick the repository.
-   - Framework Preset: **Other**.
-   - Build Command: leave empty.
-   - Output Directory: leave as it is. Vercel serves this folder as it is.
-3. **Deploy.** The preview opens at `https://<project>.vercel.app/`.
-
 `vercel.json` sets the cache and security headers there. It also tells search engines not to index any `*.vercel.app` address, so the preview never competes with the real page. Other servers ignore this file.
 
 **Share cards on the preview:** link previews (Facebook, X, WhatsApp, Slack) point at the live address by design, so they show the photo only once the page is live at https://campaign.thedailystar.net/syndicates-web/.
