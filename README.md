@@ -10,7 +10,7 @@ Don't edit these files by hand. They're generated from the project source (`site
 
 ## 1. Preview on Vercel
 
-1. **Put this folder on GitHub as its own repository.** It has about 240 files. GitHub's drag-and-drop uploader takes only 100 at a time, so use one of these instead:
+1. **Put this folder on GitHub as its own repository.** It has about 230 files. GitHub's drag-and-drop uploader takes only 100 at a time, so use one of these instead:
    - **GitHub Desktop:** File → Add local repository → choose this folder → "create a repository" → Publish repository.
    - **Git on the command line:** create an empty repository on github.com (no README), then run these inside this folder:
 
@@ -88,9 +88,9 @@ AddType font/woff2 .woff2
 ## 3. Search engines and share cards
 
 Already in the page:
-- `<title>`, meta description, canonical URL (https://campaign.thedailystar.net/syndicates-web/) and robots directives. Large image previews are allowed.
-- Open Graph and X (Twitter) cards with a 1200 × 630 crop of the hero photo.
-- `NewsArticle` structured data: headline, description, author, publish date, and the hero in 16:9, 4:3 and 1:1 crops.
+- `<title>`, meta description and keywords, canonical URL (https://campaign.thedailystar.net/syndicates-web/) and robots directives. Large image previews are allowed.
+- Open Graph and X (Twitter) cards with a 1200 × 630 crop of the share image (the Korail night aerial).
+- `NewsArticle` structured data: headline, description, keywords, author, publish date, and the share image in 16:9, 4:3 and 1:1 crops.
 - `sitemap.xml` (the page, its photos and Google News details) and `robots.txt`.
 
 **One step on the live server:** crawlers read `robots.txt` only at the **root of a domain**. `https://campaign.thedailystar.net/robots.txt` doesn't exist today (it returns 404), so choose one:
@@ -116,7 +116,7 @@ Already in the page:
 |---|---|
 | `index.html` | The whole article, prerendered: complete even with JavaScript off |
 | `assets/` | Script, styles and fonts (content-hashed names) |
-| `media/` | Photos (AVIF, WebP and JPG at several sizes) and the share-card crops in `media/share/` |
+| `media/` | Photos (AVIF, WebP and JPG at several sizes), the hero video (`media/photos/hero-*.mp4`) and the share-card crops in `media/share/` |
 | `brand/` | The Daily Star logo, as supplied |
 | `robots.txt`, `sitemap.xml` | For search engines (see section 3) |
 | `vercel.json` | Vercel preview settings only |
